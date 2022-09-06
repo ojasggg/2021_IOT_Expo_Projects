@@ -1,0 +1,15 @@
+Our vision is to help people who are visually cursed and guide them forward to enjoy their dark life with brightness and happiness. 
+
+Link for Tensorflow lite and goolge sample models and also for updgrading machine with coral usb and also to use our custom sample model that we train .
+
+https://www.youtube.com/watch?v=aimSGOAUI8Y&t=531s
+
+
+Edje Electronics on YT
+
+To get the total count of stairs line I need to either filter Inage to the Black background or to calculate image using blob as stackover flow suggests 
+Algorithm that I am using is Hough line transformation algorithm.
+
+This algorithm helps to finds the edges, lines ,curves in an Image. 
+
+In process -- To use of live video would be a better idea so that there is no extra burden to the system.

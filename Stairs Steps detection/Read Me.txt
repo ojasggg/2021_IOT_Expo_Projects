@@ -1,0 +1,3 @@
+Final.py is the focused python directory.
+
+My code is focused on finding the line count in an image.
